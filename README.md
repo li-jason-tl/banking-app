@@ -14,9 +14,9 @@ using ASP.NET Core and Entity Framework.
 
 ### What I did it
 
-- Developed a web application using ASP.NET Core and Entity Framework Core.​
+- Developed a web application using **ASP.NET Core** and **Entity Framework Core**.​
 
-- Designed a relational schema in SQL Server to manage users, accounts, and transactions.​
+- Designed a relational schema in **SQL Server** to manage users, accounts, and transactions.​
 
 - Implemented user registration and login features using ASP.NET Identity.​
 
