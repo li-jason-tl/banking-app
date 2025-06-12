@@ -12,7 +12,7 @@ using ASP.NET Core and Entity Framework.
 
 
 
-### How I did it
+### What I did it
 
 - Developed a web application using ASP.NET Core and Entity Framework Core.​
 
