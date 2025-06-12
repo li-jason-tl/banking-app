@@ -12,7 +12,7 @@ I wanted to create a simple but functional banking application to demonstrate co
 using ASP.NET Core and Entity Framework.
 
 
-### Action
+## Action
 
 - Developed a web application using **ASP.NET Core** and **Entity Framework Core**.​
 
@@ -27,7 +27,7 @@ using ASP.NET Core and Entity Framework.
 
 - Visual Studio, GitHub
 
-### Result
+## Result
 - Successfully demonstrated full-stack development using Microsoft technologies.​
 
 - Improved skills in backend architecture, database migrations, and identity management.​
