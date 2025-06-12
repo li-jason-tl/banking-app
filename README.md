@@ -3,6 +3,7 @@
 
 ## Banking-App
 
+## Context
 Many beginners struggle to build a real-world financial system that includes user authentication,
 transaction history, and account tracking in a secure and scalable way.
 
@@ -11,8 +12,7 @@ I wanted to create a simple but functional banking application to demonstrate co
 using ASP.NET Core and Entity Framework.
 
 
-
-### What I did it
+### Action
 
 - Developed a web application using **ASP.NET Core** and **Entity Framework Core**.​
 
