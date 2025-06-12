@@ -13,7 +13,7 @@ using ASP.NET Core and Entity Framework.
 
 
 ## Action
-
+### What I Did
 - Developed a web application using **ASP.NET Core** and **Entity Framework Core**.​
 
 - Designed a relational schema in **SQL Server** to manage users, accounts, and transactions.​
