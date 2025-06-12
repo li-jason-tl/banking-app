@@ -23,9 +23,9 @@ using ASP.NET Core and Entity Framework.
 - Created modules to view and create transactions, and track account balances.
 
 ### Tools Used
-ASP.NET Core, EF Core, SQL Server​
+- ASP.NET Core, EF Core, SQL Server​
 
-Visual Studio, GitHub
+- Visual Studio, GitHub
 
 ### Result
 - Successfully demonstrated full-stack development using Microsoft technologies.​
